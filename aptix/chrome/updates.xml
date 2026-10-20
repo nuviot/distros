@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gupdate protocol="2.0" xmlns="http://www.google.com/update2/response">
   <app appid="gcdpngnhcngnjancbkgopkgenemicgip">
-    <updatecheck codebase="https://nuviot.github.io/distros/aptix/chrome/aptix-workstream-relay-0.20.17.300.crx" version="0.20.17.300" />
+    <updatecheck codebase="https://nuviot.github.io/distros/aptix/chrome/aptix-workstream-relay-0.20.18.0.crx" version="0.20.18.0" />
   </app>
 </gupdate>
